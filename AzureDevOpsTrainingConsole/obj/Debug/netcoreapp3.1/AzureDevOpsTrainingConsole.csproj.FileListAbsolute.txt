@@ -1,0 +1,11 @@
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\bin\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.exe
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\bin\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.deps.json
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\bin\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.runtimeconfig.json
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\bin\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.runtimeconfig.dev.json
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\bin\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.dll
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\bin\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.pdb
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\obj\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.csprojAssemblyReference.cache
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\obj\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.AssemblyInfoInputs.cache
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\obj\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.AssemblyInfo.cs
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\obj\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.dll
+E:\Programmer\Source\AzureDevOpsTraining\AzureDevOpsTrainingConsole\obj\Debug\netcoreapp3.1\AzureDevOpsTrainingConsole.pdb
