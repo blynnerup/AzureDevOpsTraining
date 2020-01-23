@@ -1,0 +1,8 @@
+E:\Programmer\Source\AzureDevOpsTraining\DataManager\bin\Debug\netcoreapp3.1\DataManager.deps.json
+E:\Programmer\Source\AzureDevOpsTraining\DataManager\bin\Debug\netcoreapp3.1\DataManager.dll
+E:\Programmer\Source\AzureDevOpsTraining\DataManager\bin\Debug\netcoreapp3.1\DataManager.pdb
+E:\Programmer\Source\AzureDevOpsTraining\DataManager\obj\Debug\netcoreapp3.1\DataManager.csprojAssemblyReference.cache
+E:\Programmer\Source\AzureDevOpsTraining\DataManager\obj\Debug\netcoreapp3.1\DataManager.AssemblyInfoInputs.cache
+E:\Programmer\Source\AzureDevOpsTraining\DataManager\obj\Debug\netcoreapp3.1\DataManager.AssemblyInfo.cs
+E:\Programmer\Source\AzureDevOpsTraining\DataManager\obj\Debug\netcoreapp3.1\DataManager.dll
+E:\Programmer\Source\AzureDevOpsTraining\DataManager\obj\Debug\netcoreapp3.1\DataManager.pdb

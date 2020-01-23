@@ -6,7 +6,7 @@ namespace AzureDevOpsTrainingConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Azure!");
             Console.ReadKey();
         }
     }
